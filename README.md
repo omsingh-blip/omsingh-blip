@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi, I'm Om 👋
 
-<!--
-**omsingh-blip/omsingh-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+I’m a developer focused on building clean, functional, and user-friendly applications. I enjoy working across the stack and continuously improving through real-world projects.
 
-Here are some ideas to get you started:
+----------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack
+
+Languages: Java, Python, JavaScript
+Frontend: Tailwind CSS, React.js
+Backend: Node.js, Express.js
+Database: Postgres, MongoDB
+
+----------------------------------------------------
+
+Projects
+
+LearnEdge – AI-powered learning platform with authentication and leaderboard features
+PingO UI – Interactive UI with mascot-based engagement and modern design
+
+-----------------------------------------------------
+
+Goals
+
+-> Build impactful full-stack applications
+-> Improve system design and scalability
+-> Contribute to open-source projects
